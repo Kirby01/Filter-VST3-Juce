@@ -1,2 +1,2 @@
 # Filter-VST3-Juce
-Yeti is unique low-pass-filter. 
+Unique low-pass-filter. 
